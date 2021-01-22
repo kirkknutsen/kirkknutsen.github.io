@@ -1,3 +1,9 @@
 body {
     background-image:url("https://i.imgur.com/FfNipq3.png");
+    background-repeat: no-repeat;
+    background-position: center 0px;
+    background-size: auto;
+    background-color: #000000;
+    background-attachment: scroll;
+    
 }
