@@ -3494,6 +3494,10 @@ input, select, textarea {
 			z-index: 1;
 		}
 
+			#banner .content p {
+				margin-bottom: 3em;
+			}
+
 			#banner .content header {
 				display: inline-block;
 				vertical-align: middle;
